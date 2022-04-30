@@ -25,6 +25,7 @@
     <option name="isInvertedSelectionColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
+    <option name="useGlobalFont" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useColoredDirectories" value="true" />
     <option name="customListItemsSize" value="18" />
@@ -33,6 +34,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="17" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
