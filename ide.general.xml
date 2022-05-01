@@ -18,7 +18,6 @@
         <entry key="LineSeparator" value="false" />
         <entry key="Position" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
-        <entry key="TypeScriptInfo" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
         <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
