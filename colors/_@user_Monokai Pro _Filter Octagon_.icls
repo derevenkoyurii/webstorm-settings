@@ -3,7 +3,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-01T01:11:53</property>
+    <property name="modified">2022-05-26T00:59:33</property>
     <property name="originalScheme">Monokai Pro (Filter Octagon)</property>
   </metaInfo>
   <colors>
@@ -2572,6 +2572,13 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="eaf2f1" />
+        <option name="BACKGROUND" value="282a3a" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="MY_BORDERED">

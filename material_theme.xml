@@ -28,6 +28,7 @@
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
@@ -46,7 +47,7 @@
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="414043" />
     <option name="highlightColor" value="a80f42" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.0.3" />
     <option name="tabHighlightPosition" value="Top-Bottom" />
