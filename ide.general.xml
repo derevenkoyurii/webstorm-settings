@@ -22,6 +22,7 @@
         <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
         <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="mtThemeFactory" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
