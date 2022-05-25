@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T00:59:54</property>
+    <property name="modified">2022-05-26T01:02:00</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -3108,6 +3108,7 @@
         <option name="BACKGROUND" value="2f363d" />
       </value>
     </option>
+    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f97583" />
