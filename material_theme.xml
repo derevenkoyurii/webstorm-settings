@@ -25,10 +25,8 @@
     <option name="isHighContrast" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
-    <option name="upperCaseTabs" value="true" />
     <option name="useGlobalFont" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useColoredDirectories" value="true" />
@@ -38,7 +36,6 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="17" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
