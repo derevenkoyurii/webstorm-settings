@@ -8,6 +8,11 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="TypeScript" value="true" />
+      </map>
+    </option>
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
   </component>
