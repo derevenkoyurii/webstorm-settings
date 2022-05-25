@@ -3,7 +3,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-01T01:11:53</property>
+    <property name="modified">2022-05-26T00:54:17</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -326,6 +326,13 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="585859" />
         <option name="ERROR_STRIPE_COLOR" value="585859" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="dfdfe0" />
+        <option name="BACKGROUND" value="292a30" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

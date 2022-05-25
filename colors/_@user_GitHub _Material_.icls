@@ -4,7 +4,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-25T19:54:42</property>
+    <property name="modified">2022-05-26T00:54:55</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <console-font>
@@ -2744,6 +2744,12 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="24292e" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="24292e" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
