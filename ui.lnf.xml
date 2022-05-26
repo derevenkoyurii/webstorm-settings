@@ -70,7 +70,6 @@
     <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
-    <option name="CONTRAST_SCROLLBARS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
