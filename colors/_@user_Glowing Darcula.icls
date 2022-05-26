@@ -3,7 +3,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-01T01:11:53</property>
+    <property name="modified">2022-05-26T21:01:53</property>
     <property name="originalScheme">Glowing Darcula</property>
   </metaInfo>
   <colors>
@@ -33,6 +33,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c792ea" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -578,6 +579,13 @@
         <option name="FOREGROUND" value="ffef28" />
         <option name="BACKGROUND" value="273835" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="d0d2d6" />
+        <option name="BACKGROUND" value="1f2021" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

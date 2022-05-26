@@ -4,13 +4,9 @@
     <property name="created">2022-05-26T18:53:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T19:00:08</property>
+    <property name="modified">2022-05-26T21:41:52</property>
     <property name="originalScheme">xndlnk-monokai</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="17" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
@@ -29,6 +25,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
     <option name="FILESTATUS_MERGED" value="b392f0" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
@@ -42,7 +41,7 @@
     <option name="FILESTATUS_addedOutside" value="ffea7f" />
     <option name="FILESTATUS_changelistConflict" value="f97583" />
     <option name="FILESTATUS_modifiedOutside" value="b392f0" />
-    <option name="GUTTER_BACKGROUND" value="121718" />
+    <option name="GUTTER_BACKGROUND" value="1f252a" />
     <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="5f5026" />
@@ -449,6 +448,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e7e7e7" />
+        <option name="BACKGROUND" value="3a3a3a" />
+      </value>
+    </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="c27310" />
@@ -465,7 +470,7 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444444" />
+        <option name="BACKGROUND" value="1f252a" />
         <option name="ERROR_STRIPE_COLOR" value="96d22f" />
       </value>
     </option>
@@ -762,7 +767,7 @@
     <option name="MT_DIRECTORIES">
       <value>
         <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="d1011" />
+        <option name="BACKGROUND" value="181f21" />
       </value>
     </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">
@@ -862,8 +867,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="d1011" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="252c32" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
