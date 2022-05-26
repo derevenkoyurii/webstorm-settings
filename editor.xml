@@ -13,6 +13,7 @@
         <entry key="TypeScript" value="true" />
       </map>
     </option>
+    <option name="TOOLTIPS_DELAY_MS" value="300" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
   </component>
