@@ -28,6 +28,7 @@
     <option name="isMaterialDesign2" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
@@ -43,7 +44,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
