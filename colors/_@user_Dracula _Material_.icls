@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T01:07:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T01:09:10</property>
+    <property name="modified">2022-05-26T18:43:24</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -70,6 +70,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80ffea" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80ffea" />
     <option name="FILESTATUS_OBSOLETE" value="f89580" />
+    <option name="FILESTATUS_RENAMED" value="c792ea" />
     <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
     <option name="FILESTATUS_SWITCHED" value="f89580" />
     <option name="FILESTATUS_UNKNOWN" value="9580ff" />

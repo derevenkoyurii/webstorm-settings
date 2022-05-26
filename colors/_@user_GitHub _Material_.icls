@@ -4,7 +4,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-26T00:54:55</property>
+    <property name="modified">2022-05-26T17:05:28</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <console-font>
@@ -70,7 +70,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5cc5" />
     <option name="FILESTATUS_OBSOLETE" value="6a737d" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_RENAMED" value="c792ea" />
     <option name="FILESTATUS_SUPPRESSED" value="6a737d" />
     <option name="FILESTATUS_SWITCHED" value="e36209" />
     <option name="FILESTATUS_UNKNOWN" value="e36209" />

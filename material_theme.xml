@@ -12,7 +12,6 @@
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="autoResetColorScheme" value="true" />
-    <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isActiveBoldTab" value="true" />
@@ -28,11 +27,13 @@
     <option name="isMaterialDesign2" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
+    <option name="useGlobalFont" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useColoredDirectories" value="true" />
     <option name="indicatorStyle" value="Sharp" />
@@ -42,10 +43,9 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
-    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.0.3" />
     <option name="tabFont" value="JetBrains Mono" />
