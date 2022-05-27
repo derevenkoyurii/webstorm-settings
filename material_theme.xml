@@ -12,7 +12,6 @@
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="autoResetColorScheme" value="true" />
-    <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isActiveBoldTab" value="true" />
@@ -36,17 +35,18 @@
     <option name="useGlobalFont" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useColoredDirectories" value="true" />
-    <option name="customListItemsSize" value="20" />
+    <option name="indicatorStyle" value="Sharp" />
+    <option name="customListItemsSize" value="18" />
+    <option name="tabFontSize" value="14" />
     <option name="highlightThickness" value="4" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="tabsHeight" value="23" />
+    <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.0.3" />
-    <option name="enforcedLanguageAdditions" value="true" />
+    <option name="tabFont" value="JetBrains Mono" />
   </component>
 </application>

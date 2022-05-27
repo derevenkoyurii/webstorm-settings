@@ -1,21 +1,11 @@
 <scheme name="_@user_GitHub Dark (Material)" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-27T23:31:43</property>
+    <property name="modified">2022-05-27T16:30:18</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="28a745" />
     <option name="ANNOTATIONS_COLOR" value="fafbfc" />
@@ -1056,6 +1046,9 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -1393,15 +1386,15 @@
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="79b8ff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2748,8 +2741,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1c6569" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2759,8 +2752,9 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="24292e" />
+        <option name="FOREGROUND" value="f2fffc" />
+        <option name="BACKGROUND" value="273136" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
@@ -3109,6 +3103,7 @@
         <option name="BACKGROUND" value="2f363d" />
       </value>
     </option>
+    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f97583" />
@@ -3625,7 +3620,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="24292e" />
+        <option name="BACKGROUND" value="2c3238" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
