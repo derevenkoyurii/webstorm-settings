@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T17:02:43</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T17:05:28</property>
+    <property name="modified">2022-05-27T23:06:06</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -61,6 +61,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f77669" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="9b859d" />
     <option name="FILESTATUS_MODIFIED" value="f9ee98" />
@@ -3210,7 +3212,6 @@
         <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
-    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f9ee98" />

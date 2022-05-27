@@ -3,7 +3,7 @@
     <property name="created">2022-05-27T16:27:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-27T20:47:36</property>
+    <property name="modified">2022-05-27T23:12:33</property>
     <property name="originalScheme">Monokai Pro (Filter Machine) - No Italics</property>
   </metaInfo>
   <colors>
@@ -37,7 +37,7 @@
     <option name="FILESTATUS_addedOutside" value="a2e57b" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="7cd5f1" />
-    <option name="GUTTER_BACKGROUND" value="252a2f" />
+    <option name="GUTTER_BACKGROUND" value="273136" />
     <option name="INDENT_GUIDE" value="303a3e" />
     <option name="INFORMATION_HINT" value="3a4449" />
     <option name="LINE_NUMBERS_COLOR" value="545f62" />
@@ -3337,8 +3337,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="252a2f" />
+        <option name="FOREGROUND" value="f2fffc" />
+        <option name="BACKGROUND" value="292f34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

@@ -3,12 +3,37 @@
     <property name="created">2022-05-26T20:48:45</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T20:53:20</property>
+    <property name="modified">2022-05-27T23:02:59</property>
     <property name="originalScheme">Xcode Light</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="e8f2ff" />
     <option name="DOC_COMMENT_LINK" value="e0eff" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="85e89d" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
+    <option name="FILESTATUS_MERGED" value="b392f0" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c792ea" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="ffea7f" />
+    <option name="FILESTATUS_changelistConflict" value="f97583" />
+    <option name="FILESTATUS_modifiedOutside" value="b392f0" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="a4cdff" />
     <option name="SELECTION_FOREGROUND" value="" />
@@ -308,6 +333,9 @@
         <option name="BACKGROUND" value="bdc2ee" />
       </value>
     </option>
+    <option name="MT_DIRECTORIES">
+      <value />
+    </option>
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="643820" />
@@ -439,9 +467,6 @@
         <option name="FOREGROUND" value="7f0000" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
