@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T20:58:59</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T21:00:21</property>
+    <property name="modified">2022-05-27T15:28:40</property>
     <property name="originalScheme">Lotus Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -1165,6 +1165,11 @@
     <option name="KOTLIN_EXCLEXCL">
       <value>
         <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">

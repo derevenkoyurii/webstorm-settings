@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T00:28:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T18:15:10</property>
+    <property name="modified">2022-05-27T15:19:46</property>
     <property name="originalScheme">darcula_sombre_dark_borders</property>
   </metaInfo>
   <colors>
@@ -32,6 +32,23 @@
     <option name="FILESTATUS_modifiedOutside" value="b392f0" />
   </colors>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MT_DIRECTORIES">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />

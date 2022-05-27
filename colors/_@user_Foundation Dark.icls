@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T01:03:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T21:38:00</property>
+    <property name="modified">2022-05-27T15:28:40</property>
     <property name="originalScheme">Foundation Dark</property>
   </metaInfo>
   <colors>
@@ -40,8 +40,8 @@
   <attributes>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="181f21" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="192434" />
       </value>
     </option>
     <option name="TEXT">
