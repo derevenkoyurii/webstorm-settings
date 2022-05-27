@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-27T16:30:18</property>
+    <property name="modified">2022-05-27T20:47:36</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <colors>
@@ -2752,8 +2752,8 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="f2fffc" />
-        <option name="BACKGROUND" value="273136" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="252a2f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
