@@ -1,6 +1,17 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adf9cdf9fdf99df99df98dfc8df9ddfcfdf9adfcbdfc9df93df9ddf9bdfcedfcfdf9bdf98df9edfccdfcfdfcedfc8df9edf9cdf9adf99df9ddf9adf9ddf98dfc9df9ddf9fdfcfdf99dfc8df9cdf98</token>
+          <option name="name" value="DATConfig" />
+          <organizationKey>dat-freight-and-analytics</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
