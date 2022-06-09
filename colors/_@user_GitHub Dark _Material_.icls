@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-08T14:43:59</property>
+    <property name="modified">2022-06-09T15:24:25</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <colors>
@@ -227,15 +227,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="b392f0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f9826c" />
@@ -318,7 +318,7 @@
         <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -499,8 +499,8 @@
         <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value />
@@ -597,7 +597,6 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="24292e" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -787,7 +786,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffab70" />
@@ -928,16 +927,16 @@
         <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="" />
-    <option name="HAML_FILTER" baseAttributes="" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="85e89d" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
-    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="e1e4e8" />
@@ -949,8 +948,8 @@
         <option name="FOREGROUND" value="85e89d" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="f97583" />
@@ -1093,7 +1092,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="17e5e6" />
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="IGNORE.BRACKET">
@@ -2752,9 +2752,18 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="f2fffc" />
-        <option name="BACKGROUND" value="273136" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="d1d5da" />
+        <option name="BACKGROUND" value="24292e" />
+      </value>
+    </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="79b8ff" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
@@ -2764,7 +2773,22 @@
     </option>
     <option name="NG.EXPRESSIONS">
       <value>
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="BACKGROUND" value="2f363d" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="9ecbff" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffab70" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="f97583" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -2978,10 +3002,10 @@
         <option name="FOREGROUND" value="fafbfc" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="85e89d" />
@@ -3038,6 +3062,9 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
+    <option name="QUTE_BACKGROUND">
+      <value />
+    </option>
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="b392f0" />
@@ -3075,14 +3102,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="2f363d" />
@@ -3490,6 +3517,46 @@
     <option name="SMARTY_BACKGROUND">
       <value />
     </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="EFFECT_COLOR" value="f97583" />
+        <option name="ERROR_STRIPE_COLOR" value="f97583" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="EFFECT_COLOR" value="f97583" />
+        <option name="ERROR_STRIPE_COLOR" value="f97583" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_INFO">
+      <value>
+        <option name="EFFECT_COLOR" value="85e89d" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="EFFECT_COLOR" value="ffd1ac" />
+        <option name="ERROR_STRIPE_COLOR" value="ffd1ac" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="EFFECT_COLOR" value="85e89d" />
+        <option name="ERROR_STRIPE_COLOR" value="85e89d" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
@@ -3619,7 +3686,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="2c3238" />
+        <option name="BACKGROUND" value="24292e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -3767,12 +3834,12 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
