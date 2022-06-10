@@ -4,7 +4,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-06-10T06:25:55</property>
+    <property name="modified">2022-06-10T11:46:43</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <console-font>
@@ -81,7 +81,7 @@
     <option name="FILESTATUS_addedOutside" value="ffd866" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
-    <option name="GUTTER_BACKGROUND" value="181e21" />
+    <option name="GUTTER_BACKGROUND" value="171c1f" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2d2a2e" />

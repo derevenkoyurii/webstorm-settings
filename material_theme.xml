@@ -11,7 +11,6 @@
     <option name="materialDesign" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
-    <option name="accentMode" value="true" />
     <option name="autoResetColorScheme" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -42,7 +41,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
     <option name="secondAccentColor" value="23bf31" />
