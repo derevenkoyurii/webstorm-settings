@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="Monokai Pro (Material)" />
+    <option name="colorScheme" value="Monokai Pro" />
     <option name="excludedColor" value="2f363dff" />
     <option name="accentColor" value="f9826cff" />
     <option name="notificationsColor" value="2f363dff" />
@@ -16,6 +16,6 @@
     <option name="selectionBackgroundColor" value="3392ffff" />
     <option name="textColor" value="959da5ff" />
     <option name="foregroundColor" value="e1e4e8ff" />
-    <option name="backgroundColor" value="1e2428ff" />
+    <option name="backgroundColor" value="21272bff" />
   </component>
 </application>

@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T15:36:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-27T15:30:09</property>
+    <property name="modified">2022-06-10T06:12:56</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <console-font>
@@ -3196,7 +3196,6 @@
         <option name="FOREGROUND" value="ef5350" />
       </value>
     </option>
-    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
