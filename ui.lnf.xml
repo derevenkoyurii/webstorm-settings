@@ -61,9 +61,9 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="compactTreeIndents" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />

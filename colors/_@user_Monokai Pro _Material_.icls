@@ -4,9 +4,18 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-06-10T11:46:43</property>
+    <property name="modified">2022-06-10T12:02:52</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -16,7 +25,6 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -33,7 +41,7 @@
     <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="fcfcfa" />
     <option name="CARET_ROW_COLOR" value="3b3539" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="21262a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2d2a2e" />
     <option name="DELETED_LINES_COLOR" value="ff6188" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="ab9df2" />
     <option name="DIAGRAM_COARSE_GRID" value="5b595c" />
@@ -81,7 +89,7 @@
     <option name="FILESTATUS_addedOutside" value="ffd866" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
-    <option name="GUTTER_BACKGROUND" value="171c1f" />
+    <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2d2a2e" />
@@ -127,7 +135,7 @@
     <option name="MnemonicIcon.background" value="403e41" />
     <option name="MnemonicIcon.borderColor" value="403e41" />
     <option name="MnemonicIcon.foreground" value="ffffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="20272b" />
+    <option name="NOTIFICATION_BACKGROUND" value="19181a" />
     <option name="NOT_CHANGED" value="939393" />
     <option name="PROMOTION_PANE" value="221f22" />
     <option name="QUESTION_HINT" value="403e41" />
@@ -1442,13 +1450,11 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
+        <option name="FOREGROUND" value="939293" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2858,8 +2864,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="403e41" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="fcfcfa" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2867,16 +2875,19 @@
         <option name="FOREGROUND" value="c4b3a3" />
       </value>
     </option>
-    <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="2d2a2e" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="MY_BORDERED">
       <value>
         <option name="FOREGROUND" value="939293" />
+      </value>
+    </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9dc76" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
@@ -2886,7 +2897,25 @@
     </option>
     <option name="NG.EXPRESSIONS">
       <value>
+        <option name="BACKGROUND" value="403e41" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="fcfcfa" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="f59762" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -3181,6 +3210,9 @@
       <value>
         <option name="FOREGROUND" value="ffd866" />
       </value>
+    </option>
+    <option name="QUTE_BACKGROUND">
+      <value />
     </option>
     <option name="RDOC_DIRECTIVE">
       <value>
@@ -3666,6 +3698,46 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff6188" />
+        <option name="ERROR_STRIPE_COLOR" value="ff6188" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="EFFECT_COLOR" value="ff6188" />
+        <option name="ERROR_STRIPE_COLOR" value="ff6188" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_INFO">
+      <value>
+        <option name="EFFECT_COLOR" value="ffd866" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="EFFECT_COLOR" value="fc9867" />
+        <option name="ERROR_STRIPE_COLOR" value="fc9867" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="EFFECT_COLOR" value="fc9867" />
+        <option name="ERROR_STRIPE_COLOR" value="fc9867" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="SPEL.BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
@@ -3790,7 +3862,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="20272b" />
+        <option name="BACKGROUND" value="2d2a2e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
