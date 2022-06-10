@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="Lotus Dark" />
+    <option name="colorScheme" value="Base16 Tomorrow Dark" />
     <option name="excludedColor" value="2f363dff" />
     <option name="accentColor" value="f9826cff" />
     <option name="notificationsColor" value="2f363dff" />
@@ -14,7 +14,7 @@
     <option name="buttonColor" value="39414aff" />
     <option name="selectionForegroundColor" value="ffffffff" />
     <option name="selectionBackgroundColor" value="3392ffff" />
-    <option name="textColor" value="48505aff" />
+    <option name="textColor" value="929292ff" />
     <option name="foregroundColor" value="e1e4e8ff" />
     <option name="backgroundColor" value="24292eff" />
   </component>
