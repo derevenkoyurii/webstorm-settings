@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-10T12:48:03</property>
+    <property name="modified">2022-06-10T13:00:34</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -1055,9 +1055,6 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -1396,15 +1393,15 @@
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="79b8ff" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2751,8 +2748,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="1c6569" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2762,8 +2759,9 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="181f21" />
+        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="BACKGROUND" value="282e32" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">

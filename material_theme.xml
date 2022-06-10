@@ -6,11 +6,11 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
-    <option name="highContrast" value="true" />
     <option name="invertedSelectionColor" value="true" />
     <option name="materialDesign" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
+    <option name="accentScrollbars" value="false" />
     <option name="autoResetColorScheme" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -23,7 +23,6 @@
     <option name="isContrastMode" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isMaterialDesign2" value="true" />
     <option name="isStyledDirectories" value="true" />
@@ -41,7 +40,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
     <option name="secondAccentColor" value="23bf31" />
