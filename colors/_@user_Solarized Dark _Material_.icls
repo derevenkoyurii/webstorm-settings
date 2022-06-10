@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T18:53:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-26T19:43:54</property>
+    <property name="modified">2022-06-10T03:47:18</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -68,7 +68,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="6c71c4" />
     <option name="FILESTATUS_MODIFIED" value="2aa198" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
@@ -3507,7 +3507,6 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="b58900" />
