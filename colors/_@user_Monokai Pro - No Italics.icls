@@ -3,7 +3,7 @@
     <property name="created">2022-06-10T11:51:22</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-10T12:07:19</property>
+    <property name="modified">2022-06-10T13:38:37</property>
     <property name="originalScheme">Monokai Pro - No Italics</property>
   </metaInfo>
   <colors>
@@ -2493,6 +2493,13 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="BACKGROUND" value="282e32" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="MY_BORDERED">

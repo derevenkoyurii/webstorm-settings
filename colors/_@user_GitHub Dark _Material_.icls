@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-10T13:00:34</property>
+    <property name="modified">2022-06-10T13:43:24</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -1055,6 +1055,9 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -1393,15 +1396,15 @@
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="79b8ff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2748,8 +2751,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1c6569" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2760,7 +2763,7 @@
     <option name="MT_DIRECTORIES">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="282e32" />
+        <option name="BACKGROUND" value="2d2a2e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3693,7 +3696,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="d1d5da" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="24292e" />
       </value>
     </option>
