@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="Monokai Pro (Material)" />
+    <option name="colorScheme" value="GitHub Dark Dimmed" />
     <option name="excludedColor" value="2f363dff" />
     <option name="accentColor" value="f9826cff" />
     <option name="notificationsColor" value="2f363dff" />
@@ -8,13 +8,13 @@
     <option name="highlightColor" value="444d56ff" />
     <option name="secondBorderColor" value="1b1f23ff" />
     <option name="tableSelectedColor" value="1a1d21ff" />
-    <option name="contrastColor" value="1e2428ff" />
+    <option name="contrastColor" value="15191cff" />
     <option name="disabledColor" value="484e55ff" />
     <option name="secondaryBackgroundColor" value="22262bff" />
     <option name="buttonColor" value="39414aff" />
     <option name="selectionForegroundColor" value="ffffffff" />
     <option name="selectionBackgroundColor" value="3392ffff" />
-    <option name="textColor" value="959da5ff" />
+    <option name="textColor" value="58585eff" />
     <option name="foregroundColor" value="e1e4e8ff" />
     <option name="backgroundColor" value="171517ff" />
   </component>

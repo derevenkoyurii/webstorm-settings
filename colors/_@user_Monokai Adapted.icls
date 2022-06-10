@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T18:10:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-10T03:56:01</property>
+    <property name="modified">2022-06-10T06:28:46</property>
     <property name="originalScheme">Monokai Adapted</property>
   </metaInfo>
   <colors>
@@ -34,7 +34,7 @@
     <option name="FILESTATUS_addedOutside" value="ffd866" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
-    <option name="GUTTER_BACKGROUND" value="192434" />
+    <option name="GUTTER_BACKGROUND" value="21262a" />
     <option name="INDENT_GUIDE" value="464741" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="464741" />

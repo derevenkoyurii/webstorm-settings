@@ -4,7 +4,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-06-10T06:16:02</property>
+    <property name="modified">2022-06-10T06:25:55</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <console-font>
@@ -81,7 +81,7 @@
     <option name="FILESTATUS_addedOutside" value="ffd866" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
-    <option name="GUTTER_BACKGROUND" value="2d3238" />
+    <option name="GUTTER_BACKGROUND" value="181e21" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2d2a2e" />
@@ -127,7 +127,7 @@
     <option name="MnemonicIcon.background" value="403e41" />
     <option name="MnemonicIcon.borderColor" value="403e41" />
     <option name="MnemonicIcon.foreground" value="ffffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="19181a" />
+    <option name="NOTIFICATION_BACKGROUND" value="20272b" />
     <option name="NOT_CHANGED" value="939393" />
     <option name="PROMOTION_PANE" value="221f22" />
     <option name="QUESTION_HINT" value="403e41" />
@@ -3790,7 +3790,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="21262a" />
+        <option name="BACKGROUND" value="20272b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

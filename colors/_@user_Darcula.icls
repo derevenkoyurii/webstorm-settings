@@ -3,42 +3,41 @@
     <property name="created">2022-05-01T00:39:43</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-06-10T06:19:44</property>
+    <property name="modified">2022-06-10T06:29:18</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="85e89d" />
+    <option name="FILESTATUS_COPIED" value="72f1b8" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="fe4450" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffffff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
-    <option name="FILESTATUS_MERGED" value="b392f0" />
+    <option name="FILESTATUS_MERGED" value="36f9f6" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="c792ea" />
+    <option name="FILESTATUS_RENAMED" value="fede5d" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="ffea7f" />
-    <option name="FILESTATUS_changelistConflict" value="f97583" />
-    <option name="FILESTATUS_modifiedOutside" value="b392f0" />
+    <option name="FILESTATUS_addedOutside" value="3edf9" />
+    <option name="FILESTATUS_changelistConflict" value="a148ab" />
+    <option name="FILESTATUS_modifiedOutside" value="a148ab" />
   </colors>
   <attributes>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="2d2a2e" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="f6f6f6" />
+        <option name="BACKGROUND" value="181f21" />
       </value>
     </option>
   </attributes>

@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T15:49:22</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-10T06:21:26</property>
+    <property name="modified">2022-06-10T06:22:39</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <console-font>
@@ -69,7 +69,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
     <option name="FILESTATUS_MERGED" value="36f9f6" />
-    <option name="FILESTATUS_MODIFIED" value="b893ce" />
+    <option name="FILESTATUS_MODIFIED" value="f92aad" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b893ce" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b893ce" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
@@ -113,7 +113,7 @@
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
     <option name="MT_FILESTATUS_MERGED" value="36f9f6" />
-    <option name="MT_FILESTATUS_MODIFIED" value="b893ce" />
+    <option name="MT_FILESTATUS_MODIFIED" value="f92aad" />
     <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b893ce" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="b893ce" />
     <option name="MT_FILESTATUS_RENAMED" value="fede5d" />
@@ -2814,6 +2814,16 @@
         <option name="BACKGROUND" value="262335" />
       </value>
     </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="f92aad" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="36f9f6" />
+      </value>
+    </option>
     <option name="NG.EXPANSION_FORM">
       <value>
         <option name="EFFECT_TYPE" value="5" />
@@ -2821,7 +2831,24 @@
     </option>
     <option name="NG.EXPRESSIONS">
       <value>
+        <option name="BACKGROUND" value="34294f" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="34d3fb" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff7edb" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="fede5d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -3059,6 +3086,9 @@
       <value>
         <option name="FOREGROUND" value="ff8b39" />
       </value>
+    </option>
+    <option name="QUTE_BACKGROUND">
+      <value />
     </option>
     <option name="RDOC_DIRECTIVE">
       <value>
@@ -3556,6 +3586,46 @@
     <option name="SMARTY_BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="EFFECT_COLOR" value="fe4450" />
+        <option name="ERROR_STRIPE_COLOR" value="fe4450" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="EFFECT_COLOR" value="fe4450" />
+        <option name="ERROR_STRIPE_COLOR" value="fe4450" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_INFO">
+      <value>
+        <option name="EFFECT_COLOR" value="72f1b8" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="EFFECT_COLOR" value="72f1b8" />
+        <option name="ERROR_STRIPE_COLOR" value="72f1b8" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="EFFECT_COLOR" value="72f1b8" />
+        <option name="ERROR_STRIPE_COLOR" value="72f1b8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="34294f" />
+        <option name="ERROR_STRIPE_COLOR" value="463564" />
       </value>
     </option>
     <option name="SPEL.BACKGROUND">
