@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="Monokai Pro" />
+    <option name="colorScheme" value="Lotus Dark" />
     <option name="excludedColor" value="2f363dff" />
     <option name="accentColor" value="f9826cff" />
     <option name="notificationsColor" value="2f363dff" />
