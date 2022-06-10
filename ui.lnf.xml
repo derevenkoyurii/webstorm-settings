@@ -61,7 +61,6 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="compactTreeIndents" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
