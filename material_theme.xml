@@ -42,7 +42,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
     <option name="secondAccentColor" value="23bf31" />
@@ -51,5 +51,6 @@
     <option name="version" value="7.5.2.1" />
     <option name="tabFont" value="JetBrains Mono" />
     <option name="tabHighlightPosition" value="Bottom" />
+    <option name="enforcedLanguageAdditions" value="true" />
   </component>
 </application>
