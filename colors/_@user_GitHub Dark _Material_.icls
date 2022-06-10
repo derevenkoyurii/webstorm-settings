@@ -4,9 +4,13 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-10T03:53:04</property>
+    <property name="modified">2022-06-10T03:56:37</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="0.9" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -15,7 +19,7 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="28a745" />
     <option name="ANNOTATIONS_COLOR" value="fafbfc" />
@@ -2762,8 +2766,8 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="2d2a2e" />
+        <option name="FOREGROUND" value="f2fffc" />
+        <option name="BACKGROUND" value="273136" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
