@@ -4,15 +4,12 @@
     <property name="created">2022-06-10T11:51:22</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-10T14:16:13</property>
+    <property name="modified">2022-06-10T14:49:47</property>
     <property name="originalScheme">Monokai Pro - No Italics</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.85" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="0.85" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -165,6 +162,24 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR">
+      <value>
+        <option name="FOREGROUND" value="1e2226" />
+        <option name="BACKGROUND" value="1e2226" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR_GUTTER">
+      <value>
+        <option name="FOREGROUND" value="1e2226" />
+        <option name="BACKGROUND" value="1e2226" />
+      </value>
+    </option>
+    <option name="BRACKET_ATTR">
+      <value>
+        <option name="FOREGROUND" value="1e2226" />
+        <option name="BACKGROUND" value="1e2226" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -397,6 +412,12 @@
         <option name="FOREGROUND" value="a9dc76" />
         <option name="EFFECT_COLOR" value="a9dc76" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSP_BRACKETS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="1e2226" />
+        <option name="BACKGROUND" value="1e2226" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -2628,6 +2649,12 @@
     <option name="OC.TYPEDEF">
       <value>
         <option name="FOREGROUND" value="78dce8" />
+      </value>
+    </option>
+    <option name="PARENTHESIS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="1e2226" />
+        <option name="BACKGROUND" value="1e2226" />
       </value>
     </option>
     <option name="PHP.FUNCTION">
