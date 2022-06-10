@@ -11,6 +11,7 @@
     <option name="materialDesign" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
+    <option name="accentMode" value="true" />
     <option name="autoResetColorScheme" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -34,15 +35,17 @@
     <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useGlobalFont" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
     <option name="useColoredDirectories" value="true" />
     <option name="indicatorStyle" value="Sharp" />
     <option name="customListItemsSize" value="18" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
+    <option name="secondAccentColor" value="23bf31" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.2.1" />
