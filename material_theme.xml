@@ -40,9 +40,10 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="20" />
-    <option name="accentColor" value="3d3d3d" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="f92aad" />
+    <option name="selectedTheme" value="SYNTHWAVE" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.2.1" />
     <option name="tabFont" value="JetBrains Mono" />
