@@ -3,7 +3,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-06-10T03:49:43</property>
+    <property name="modified">2022-06-14T22:43:02</property>
     <property name="originalScheme">Dracula Colorful</property>
   </metaInfo>
   <colors>
@@ -1810,7 +1810,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="343740" />
+        <option name="BACKGROUND" value="21262a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
