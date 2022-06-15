@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="expecter({postingStatus, rateUsd, tripMiles, bidsLength},expectedResult)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+    </disabledLanguages>
+  </component>
+</application>
