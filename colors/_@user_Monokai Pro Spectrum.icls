@@ -3,7 +3,7 @@
     <property name="created">2022-06-23T11:18:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-23T12:27:13</property>
+    <property name="modified">2022-06-23T12:49:47</property>
     <property name="originalScheme">Monokai Pro Spectrum</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,7 @@
     <option name="DELETED_LINES_COLOR" value="fc618d" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="403e41" />
+    <option name="DOCUMENTATION_COLOR" value="2c353b" />
     <option name="FILESTATUS_ADDED" value="aedc70" />
     <option name="FILESTATUS_COPIED" value="aedc70" />
     <option name="FILESTATUS_DELETED" value="727072" />
@@ -42,20 +42,21 @@
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="LOOKUP_COLOR" value="2c353b" />
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="19181a" />
     <option name="NOT_CHANGED" value="939393" />
-    <option name="QUESTION_HINT" value="403e41" />
+    <option name="QUESTION_HINT" value="2c353b" />
     <option name="RIGHT_MARGIN_COLOR" value="59575a" />
     <option name="SELECTED_INDENT_GUIDE" value="5ad4e6" />
     <option name="SELECTED_TEARLINE_COLOR" value="5ad4e6" />
     <option name="SELECTION_BACKGROUND" value="171b1f" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
     <option name="TEARLINE_COLOR" value="282a2e" />
-    <option name="TOOLTIP" value="403e41" />
+    <option name="TOOLTIP" value="2c353b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="727072" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="fc618d" />
@@ -164,13 +165,11 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="727072" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="939393" />
-        <option name="BACKGROUND" value="403e41" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -182,7 +181,6 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="727272" />
-        <option name="BACKGROUND" value="403e41" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
