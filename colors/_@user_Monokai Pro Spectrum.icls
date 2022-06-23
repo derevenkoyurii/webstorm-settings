@@ -3,7 +3,7 @@
     <property name="created">2022-06-23T11:18:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-23T12:49:47</property>
+    <property name="modified">2022-06-23T13:30:29</property>
     <property name="originalScheme">Monokai Pro Spectrum</property>
   </metaInfo>
   <colors>
@@ -55,6 +55,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="5ad4e6" />
     <option name="SELECTION_BACKGROUND" value="171b1f" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
+    <option name="TAB_UNDERLINE" value="" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="" />
     <option name="TEARLINE_COLOR" value="282a2e" />
     <option name="TOOLTIP" value="2c353b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="727072" />
@@ -2578,6 +2580,16 @@
     <option name="StandardF Java Collection">
       <value>
         <option name="FOREGROUND" value="7bd88f" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="2c353b" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="BACKGROUND" value="1e2226" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
