@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T01:07:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-10T11:40:42</property>
+    <property name="modified">2022-06-23T11:14:49</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -64,13 +64,16 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f780bf" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f89580" />
     <option name="FILESTATUS_MERGED" value="9580ff" />
     <option name="FILESTATUS_MODIFIED" value="80ffea" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80ffea" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80ffea" />
     <option name="FILESTATUS_OBSOLETE" value="f89580" />
-    <option name="FILESTATUS_RENAMED" value="c792ea" />
+    <option name="FILESTATUS_RENAMED" value="fede5d" />
     <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
     <option name="FILESTATUS_SWITCHED" value="f89580" />
     <option name="FILESTATUS_UNKNOWN" value="9580ff" />
