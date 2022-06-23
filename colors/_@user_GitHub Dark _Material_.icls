@@ -1,11 +1,21 @@
 <scheme name="_@user_GitHub Dark (Material)" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-23T11:15:13</property>
+    <property name="modified">2022-06-23T11:44:04</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="28a745" />
     <option name="ANNOTATIONS_COLOR" value="fafbfc" />
@@ -2752,9 +2762,8 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="282e32" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="c8c8c8" />
+        <option name="BACKGROUND" value="1e2428" />
       </value>
     </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">
@@ -3687,7 +3696,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="24292e" />
+        <option name="BACKGROUND" value="22272b" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
