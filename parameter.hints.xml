@@ -5,6 +5,7 @@
         <added pattern="expecter({postingStatus, rateUsd, tripMiles, bidsLength},expectedResult)" />
       </blacklist>
     </blacklists>
+    <option id="js.param.hints.show.names.for.tagged" value="false" />
     <disabledLanguages>
       <language id="TypeScript" />
     </disabledLanguages>

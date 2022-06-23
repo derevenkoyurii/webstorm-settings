@@ -11,6 +11,7 @@
     <option name="materialDesign" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
+    <option name="accentScrollbars" value="false" />
     <option name="autoResetColorScheme" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -40,7 +41,7 @@
     <option name="highlightThickness" value="4" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />

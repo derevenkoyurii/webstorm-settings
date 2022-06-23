@@ -3,7 +3,7 @@
     <property name="created">2022-06-23T11:18:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-23T11:44:04</property>
+    <property name="modified">2022-06-23T12:03:07</property>
     <property name="originalScheme">Monokai Pro Spectrum</property>
   </metaInfo>
   <colors>
@@ -145,6 +145,21 @@
     <option name="BNF_NUMBER">
       <value>
         <option name="FOREGROUND" value="f59762" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR">
+      <value>
+        <option name="FOREGROUND" value="fdffdf" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR_GUTTER">
+      <value>
+        <option name="FOREGROUND" value="3a3afc" />
+      </value>
+    </option>
+    <option name="BRACKET_ATTR">
+      <value>
+        <option name="FOREGROUND" value="fa9196" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -458,6 +473,11 @@
         <option name="FOREGROUND" value="e91e63" />
         <option name="EFFECT_COLOR" value="e91e63" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSP_BRACKETS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="ff9b9e" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -2126,6 +2146,11 @@
     <option name="OC.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="5ad4e6" />
+      </value>
+    </option>
+    <option name="PARENTHESIS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="ffa8aa" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
