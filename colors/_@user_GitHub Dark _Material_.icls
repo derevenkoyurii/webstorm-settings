@@ -4,7 +4,7 @@
     <property name="created">2022-05-26T00:05:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-07-04T12:02:13</property>
+    <property name="modified">2022-07-04T12:13:18</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -2762,8 +2762,8 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="c8c8c8" />
-        <option name="BACKGROUND" value="23282d" />
+        <option name="FOREGROUND" value="efefef" />
+        <option name="BACKGROUND" value="202328" />
       </value>
     </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">
