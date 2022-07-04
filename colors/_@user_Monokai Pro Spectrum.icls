@@ -3,7 +3,7 @@
     <property name="created">2022-06-23T11:18:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-24T01:28:20</property>
+    <property name="modified">2022-07-04T12:02:13</property>
     <property name="originalScheme">Monokai Pro Spectrum</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="c8c8c8" />
     <option name="CARET_ROW_COLOR" value="282a2e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e2428" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="191e21" />
     <option name="DELETED_LINES_COLOR" value="fc618d" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -2605,7 +2605,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c8c8c8" />
-        <option name="BACKGROUND" value="1e2428" />
+        <option name="BACKGROUND" value="23282d" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
