@@ -1,0 +1,6 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="GotoAction" />
+  <action id="ToggleMainMenuAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+</keymap>
