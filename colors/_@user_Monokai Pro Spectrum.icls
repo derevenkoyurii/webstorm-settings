@@ -3,7 +3,7 @@
     <property name="created">2022-06-23T11:18:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-07-04T12:13:17</property>
+    <property name="modified">2022-07-22T13:19:55</property>
     <property name="originalScheme">Monokai Pro Spectrum</property>
   </metaInfo>
   <colors>
@@ -37,7 +37,7 @@
     <option name="FILESTATUS_addedOutside" value="aedc70" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="2c353b" />
+    <option name="GUTTER_BACKGROUND" value="23282d" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
@@ -2606,7 +2606,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="efefef" />
-        <option name="BACKGROUND" value="202328" />
+        <option name="BACKGROUND" value="242c31" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
