@@ -31,6 +31,7 @@
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
@@ -50,6 +51,6 @@
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.4" />
     <option name="tabFont" value="JetBrains Mono ExtraLight" />
-    <option name="treeFont" value="JetBrains Mono ExtraLight" />
+    <option name="treeFont" value="Roboto Thin" />
   </component>
 </application>
