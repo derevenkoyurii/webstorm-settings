@@ -1,0 +1,5 @@
+<application>
+  <component name="JavaScript">
+    <option name="skipSimpleGetters" value="true" />
+  </component>
+</application>
