@@ -5,9 +5,10 @@
         <added pattern="expecter({postingStatus, rateUsd, tripMiles, bidsLength},expectedResult)" />
       </blacklist>
     </blacklists>
-    <option id="js.param.hints.show.names.for.tagged" value="false" />
+    <option id="js.param.hints.show.names.for.all.args" value="true" />
+    <option id="vuejs.show.names.for.filters" value="false" />
     <disabledLanguages>
-      <language id="TypeScript" />
+      <language id="Vue" />
     </disabledLanguages>
   </component>
 </application>
