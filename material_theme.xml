@@ -43,11 +43,14 @@
     <option name="highlightThickness" value="5" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="f9826c" />
+    <option name="highlightColor" value="9a2d52" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.4" />
+    <option name="tabFont" value="JetBrains Mono ExtraLight" />
+    <option name="treeFont" value="JetBrains Mono ExtraLight" />
   </component>
 </application>
