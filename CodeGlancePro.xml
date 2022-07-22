@@ -1,0 +1,7 @@
+<application>
+  <component name="CodeGlance Pro">
+    <option name="clean" value="false" />
+    <option name="hideOriginalScrollBar" value="true" />
+    <option name="showFullLineError" value="true" />
+  </component>
+</application>
