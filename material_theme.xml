@@ -4,16 +4,11 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
-    <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
-    <option name="materialDesign" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="autoResetColorScheme" value="true" />
-    <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isActiveBoldTab" value="true" />
@@ -22,13 +17,9 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
-    <option name="isMaterialDesign2" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
@@ -40,17 +31,13 @@
     <option name="useColoredDirectories" value="true" />
     <option name="customListItemsSize" value="18" />
     <option name="tabFontSize" value="13" />
-    <option name="highlightThickness" value="5" />
+    <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="f9826c" />
-    <option name="highlightColor" value="9a2d52" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.4" />
-    <option name="tabFont" value="JetBrains Mono ExtraLight" />
-    <option name="treeFont" value="Roboto Thin" />
   </component>
 </application>
