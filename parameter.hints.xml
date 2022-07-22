@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="TypeScript">
         <added pattern="expecter({postingStatus, rateUsd, tripMiles, bidsLength},expectedResult)" />
+        <added pattern="Observable.pipe(op1,op2,op3)" />
       </blacklist>
     </blacklists>
     <option id="js.param.hints.show.names.for.all.args" value="true" />
