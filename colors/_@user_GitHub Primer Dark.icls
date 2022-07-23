@@ -1,11 +1,16 @@
 <scheme name="_@user_GitHub Primer Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-06-10T03:06:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-10T12:57:23</property>
+    <property name="modified">2022-07-23T04:43:01</property>
     <property name="originalScheme">GitHub Primer Dark</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="SF Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -27,7 +32,7 @@
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="293036" />
+    <option name="GUTTER_BACKGROUND" value="293034" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
     <option name="HTML_TAG_TREE_LEVEL1" value="ffab70" />
     <option name="HTML_TAG_TREE_LEVEL2" value="85e89d" />
@@ -1325,7 +1330,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="25cc5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1970,7 +1975,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e1e4e8" />
-        <option name="BACKGROUND" value="262c31" />
+        <option name="BACKGROUND" value="1e2428" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

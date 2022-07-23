@@ -3,7 +3,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-07-23T04:00:55</property>
+    <property name="modified">2022-07-23T04:40:31</property>
     <property name="originalScheme">GitHub Dark</property>
   </metaInfo>
   <colors>
@@ -521,7 +521,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c9d1d9" />
-        <option name="BACKGROUND" value="d1117" />
+        <option name="BACKGROUND" value="21262a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

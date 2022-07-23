@@ -4,7 +4,6 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
@@ -19,13 +18,11 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
