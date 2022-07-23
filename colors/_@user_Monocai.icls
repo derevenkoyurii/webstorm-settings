@@ -3,7 +3,7 @@
     <property name="created">2022-05-01T01:08:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-06-10T06:16:01</property>
+    <property name="modified">2022-07-23T04:00:55</property>
     <property name="originalScheme">Monocai</property>
   </metaInfo>
   <colors>
@@ -598,11 +598,6 @@
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -675,12 +670,6 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="2d2a2e" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -798,7 +787,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="21262a" />
+        <option name="BACKGROUND" value="2d2a2e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T18:10:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-07-22T12:53:59</property>
+    <property name="modified">2022-07-23T03:52:27</property>
     <property name="originalScheme">Monokai Adapted</property>
   </metaInfo>
   <colors>
@@ -33,7 +33,7 @@
     <option name="FILESTATUS_addedOutside" value="585f6f" />
     <option name="FILESTATUS_changelistConflict" value="8dc6ef" />
     <option name="FILESTATUS_modifiedOutside" value="85ffef" />
-    <option name="GUTTER_BACKGROUND" value="21262a" />
+    <option name="GUTTER_BACKGROUND" value="192434" />
     <option name="INDENT_GUIDE" value="464741" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="464741" />
@@ -1006,12 +1006,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="192434" />
-      </value>
-    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80807f" />
@@ -1663,7 +1657,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="21262a" />
+        <option name="BACKGROUND" value="192434" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

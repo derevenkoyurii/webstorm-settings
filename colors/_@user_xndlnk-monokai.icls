@@ -1,11 +1,15 @@
 <scheme name="_@user_xndlnk-monokai" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-05-26T18:53:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-15T10:01:25</property>
+    <property name="modified">2022-07-23T04:00:55</property>
     <property name="originalScheme">xndlnk-monokai</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="b2c0c6" />
@@ -458,12 +462,6 @@
     </option>
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="287bde" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="444444" />
@@ -760,12 +758,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="d1011" />
-      </value>
-    </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">
       <value>
         <option name="FOREGROUND" value="c498db" />
@@ -864,7 +856,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="21262a" />
+        <option name="BACKGROUND" value="1e2428" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

@@ -4,9 +4,19 @@
     <property name="created">2022-05-26T00:28:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-07-22T12:39:11</property>
+    <property name="modified">2022-07-23T03:55:08</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -2836,18 +2846,39 @@
         <option name="FOREGROUND" value="c4b3a3" />
       </value>
     </option>
-    <option name="MT_DIRECTORIES">
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="2d2a2e" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
       <value />
     </option>
     <option name="NG.EXPRESSIONS">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
@@ -3174,6 +3205,9 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="QUTE_BACKGROUND">
+      <value />
+    </option>
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -3269,6 +3303,7 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -3661,6 +3696,46 @@
     <option name="SMARTY_BACKGROUND">
       <value />
     </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="ERROR_STRIPE_COLOR" value="ff5370" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="ERROR_STRIPE_COLOR" value="ff5370" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_INFO">
+      <value>
+        <option name="EFFECT_COLOR" value="ffeb95" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="EFFECT_COLOR" value="ffcb6b" />
+        <option name="ERROR_STRIPE_COLOR" value="ffcb6b" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="EFFECT_COLOR" value="f49810" />
+        <option name="ERROR_STRIPE_COLOR" value="f49810" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
@@ -3788,7 +3863,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="BACKGROUND" value="21262c" />
+        <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
