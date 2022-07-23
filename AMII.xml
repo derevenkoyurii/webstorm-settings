@@ -1,5 +1,9 @@
 <application>
   <component name="Plugin-Config">
+    <option name="discreetMode" value="true" />
+    <option name="memeVolume" value="30" />
+    <option name="preferredGenders" value="2" />
+    <option name="showMood" value="false" />
     <option name="userId" value="1dd2b718-51f2-4a56-922a-4c281b6af5f8" />
     <option name="version" value="0.15.1" />
   </component>
