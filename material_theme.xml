@@ -4,6 +4,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
@@ -18,6 +19,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
@@ -37,8 +39,8 @@
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="f9826c" />
-    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="5683b4fb:1807b3d4a6a:-8000" />
     <option name="version" value="7.5.4" />
   </component>
