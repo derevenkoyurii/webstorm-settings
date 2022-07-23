@@ -4,7 +4,7 @@
     <property name="created">2022-06-10T03:59:56</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-07-23T04:12:19</property>
+    <property name="modified">2022-07-23T04:26:31</property>
     <property name="originalScheme">_@user_Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.8" />
@@ -36,7 +36,7 @@
     <option name="BookmarkMnemonicIcon.borderColor" value="403e41" />
     <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="fcfcfa" />
-    <option name="CARET_ROW_COLOR" value="3b3539" />
+    <option name="CARET_ROW_COLOR" value="131313" />
     <option name="CONSOLE_BACKGROUND_KEY" value="21262a" />
     <option name="DELETED_LINES_COLOR" value="ff6188" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="ab9df2" />
@@ -139,8 +139,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="403e41" />
     <option name="SELECTED_INDENT_GUIDE" value="78dce8" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffd866" />
-    <option name="SELECTION_BACKGROUND" value="202428" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="SELECTION_BACKGROUND" value="131313" />
     <option name="SEPARATOR_BELOW_COLOR" value="403e41" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffd866c0" />
@@ -262,7 +261,7 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="939393" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="131313" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -859,7 +858,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="939293" />
-        <option name="BACKGROUND" value="403e41" />
+        <option name="BACKGROUND" value="31393d" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -3794,7 +3793,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a8a8a8" />
-        <option name="BACKGROUND" value="21272d" />
+        <option name="BACKGROUND" value="1f242a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
